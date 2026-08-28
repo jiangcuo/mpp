@@ -1,3 +1,9 @@
+mpp (1.5.0-2) stable; urgency=critical
+
+ * rebuild for debian
+
+ -- Lierfang Support Team <itsupport@lierfang.com>  Fri, 28 Aug 2026 07:58:10 +0000
+
 mpp (1.5.0-1) stable; urgency=critical
 
   * [mpp_enc_impl]: Cleanup hal_task on empty eos task
