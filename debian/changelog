@@ -1,3 +1,9 @@
+mpp (1.5.0-3) pxvdi; urgency=medium
+
+  * init for pxvdi
+
+ -- Lierfang Support Team <itsupport@lierfang.com>  Mon, 14 Sep 2026 09:29:51 +0000
+
 mpp (1.5.0-1) stable; urgency=critical
 
   * [mpp_enc_impl]: Cleanup hal_task on empty eos task
